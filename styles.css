@@ -21,7 +21,7 @@ a {
     padding: 20px 0;
 }
 
-h1, h2, h3 {
+h1,h2, h3 {
     color: #333;
     margin-bottom: 10px;
 }
@@ -144,13 +144,19 @@ h1, h2, h3 {
 }
 
 .home-section .home-content h1 {
-    font-size: 42px;
+    font-size: 70px;
     margin-bottom: 20px;
 }
 
+.home-section .home-content h4 {
+    margin-bottom: 40px;
+}
+
 .home-section .home-content p {
-    font-size: 20px;
-    margin-bottom: 30px;
+    font-size: 35px;
+    margin-bottom: 20px;
+    font-weight: bolder;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif 
 }
 
 .btn {
